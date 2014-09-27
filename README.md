@@ -1,1 +1,1 @@
-This is simple demo of embedding video inside app and playing it. And it is simple demo of VideoView too.
+This is simple demo of embedding video inside app and playing it. And it is simple demo of VideoView too. Refer my blog at http://smdaudhilbe.wordpress.com/2014/09/27/embedding-video-in-an-android-app/.
